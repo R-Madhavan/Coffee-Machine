@@ -1,3 +1,5 @@
+![Uploading CoffeeMoccamasterGIF.gif…]()
+
 # Coffee Machine
 
 A Python-based coffee machine program that simulates making espresso, latte, or cappuccino by managing resources (water, milk, coffee) and handling coin payments. The program also provides a report of available resources and can be turned off gracefully by the user.
