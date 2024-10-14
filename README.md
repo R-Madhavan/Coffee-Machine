@@ -1,4 +1,4 @@
-![Uploading CoffeeMoccamasterGIF.gif…]()
+![CoffeeMoccamasterGIF (2)](https://github.com/user-attachments/assets/3f9a3ed5-ffc3-4380-b881-384480f2b925)
 
 # Coffee Machine
 
